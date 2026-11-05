@@ -1,0 +1,21 @@
+{
+  "name": "m3-w1-d3-assignment",
+  "version": "1.0.0",
+  "description": "Registration form with Node.js, Express and Pug validation",
+  "main": "start.js",
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "keywords": [],
+  "author": "Wuhao Wang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.4.0",
+    "express": "^5.3.0",
+    "express-validator": "^7.3.2",
+    "pug": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
